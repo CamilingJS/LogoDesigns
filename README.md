@@ -1,4 +1,4 @@
-# Repository of my Logo Designs
+## Repository of my Logo Designs
 
 ![](./images/Logo1.png)
 ![](./images/Logo2.png)
