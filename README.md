@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Repository of my Logo Designs
 ![](./images/eCommExpertsV3.png)
@@ -7,7 +7,7 @@
 =======
 ## Repository of my Logo Designs
 
->>>>>>> 4f5d0e30ef05ca2267e73ad699cbd8bf9c268183
+
 ![](./images/Logo1.png)
 ![](./images/Logo2.png)
 ![](./images/Logo9.png)
