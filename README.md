@@ -1,11 +1,12 @@
 
 
 # Repository of my Logo Designs
+![](./images/MuscleBees.png)
+![](./images/MuscleBees_Horizontal.png)
 ![](./images/eCommExpertsV3.png)
 ![](./images/eCommExpertsV2.png)
 ![](./images/eCommExperts.png)
-=======
-## Repository of my Logo Designs
+
 
 
 ![](./images/Logo1.png)
