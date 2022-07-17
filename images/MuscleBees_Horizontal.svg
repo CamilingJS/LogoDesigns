@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2400 468" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(0.51073,0,0,0.51073,1129.34,-58.7574)">
+        <g transform="matrix(1.00195,0,0,1,-0.342002,0)">
+            <path d="M444.385,804.014L474.569,857.692L380.639,856.242L175.525,491.809L391.789,133.88L752.97,139.455L958.084,503.888L741.82,861.817L654.528,860.47L684.193,807.715L716.465,808.214L901.399,502.138L726,190.501L417.144,185.734L232.21,491.809L407.609,803.446L444.385,804.014Z" style="fill-rule:nonzero;stroke:black;stroke-width:0.48px;"/>
+        </g>
+        <g transform="matrix(0.492334,-31.8974,31.8974,0.492334,324.483,713.671)">
+            <path d="M1.5,4.5L1.5,10.5L7.5,14L13.5,10.5L13.5,4.5L7.5,1L1.5,4.5Z" style="fill-rule:nonzero;stroke:black;stroke-width:1.29px;"/>
+        </g>
+        <g transform="matrix(0.769842,0,0,0.769842,415.527,584.447)">
+            <text x="0px" y="0px" style="font-family:'GillSans-UltraBold', 'Gill Sans Ultra Bold', sans-serif;font-size:366.13px;fill:rgb(255,215,40);stroke:white;stroke-width:2.54px;stroke-linejoin:round;stroke-miterlimit:2;">M</text>
+        </g>
+        <g transform="matrix(0.846931,0,0,0.344439,43.9122,693.246)">
+            <path d="M798.221,182.973L437.992,182.973L437.992,237.544C437.992,261.09 445.755,280.178 455.331,280.178L780.882,280.178C790.458,280.178 798.221,261.09 798.221,237.544L798.221,182.973Z" style="stroke:black;stroke-width:7.43px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(0.846931,0,0,0.344439,43.9122,643.246)">
+            <path d="M798.221,225.608C798.221,202.061 790.458,182.973 780.882,182.973L455.331,182.973C445.755,182.973 437.992,202.061 437.992,225.608L437.992,280.178L798.221,280.178L798.221,225.608Z" style="stroke:black;stroke-width:7.43px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(-1.04863,-1.2842e-16,1.2842e-16,-1.04863,1171.74,1921.88)">
+            <path d="M576.307,872.839L679.051,1066.41L473.563,1066.41L576.307,872.839Z" style="stroke:black;stroke-width:4.58px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+    </g>
+    <g transform="matrix(0.619472,0,0,0.619472,6.63593,285.893)">
+        <text x="0px" y="0px" style="font-family:'GillSans-UltraBold', 'Gill Sans Ultra Bold', sans-serif;font-size:390.756px;">MUSCLE</text>
+    </g>
+    <g transform="matrix(0.619472,0,0,0.619472,1652.53,285.893)">
+        <text x="0px" y="0px" style="font-family:'GillSans-UltraBold', 'Gill Sans Ultra Bold', sans-serif;font-size:390.756px;fill:rgb(255,215,40);">BEES</text>
+    </g>
+</svg>
