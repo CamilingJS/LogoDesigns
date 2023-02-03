@@ -3,19 +3,22 @@
 # Repository of my Logo Designs
 <div>
 <img align="center" src="./images/MuscleBees.png" width="33%" alt="Muscle Bees" >
-<img align="center" src="./images/BankiLogo.png" width="33%" alt="Banki" >
-<img align="center" src="./images/eCommExpertsV3.png" width="33%" alt="exp final" >
+<img align="center" src="./images/MuscleBees_Horizontal.png" width="33%" alt="MuscleBees Horizontal" >
+<img align="center" src="./images/LarkspurBarberShop.jpg" width="33%" alt="Larkspur Barbershop" >
+
+
 </div>
 <div>
-<img align="center" src="./images/eCommExpertsV2.png" width="33%" alt="exp triangles" >
+<img align="center" src="./images/BankiLogo.png" width="33%" alt="Banki" >
+<img align="center" src="./images/jtc.png" width="33%" alt="jtc" >
 <img align="center" src="./images/tms.png" width="33%" alt="tms" >
-<img align="center" src="./images/LarkspurBarberShop.jpg" width="33%" alt="Larkspur Barbershop" >
 </div>
 
 <div>
-<img align="center" src="./images/MuscleBees_Horizontal.png" width="33%" alt="MuscleBees Horizontal" >
+<img align="center" src="./images/eCommExpertsV3.png" width="33%" alt="exp final" >
+<img align="center" src="./images/eCommExpertsV2.png" width="33%" alt="exp triangles" >
 <img align="center" src="./images/eCommExperts.png" width="33%" alt="eCommExperts" >
-<img align="center" src="./images/jtc.png" width="33%" alt="jtc" >
+
 </div>
 
 <div>
